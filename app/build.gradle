@@ -50,11 +50,9 @@ dependencies {
     implementation fileTree(include: ['*.jar',], dir: 'libs')
     implementation 'com.android.support:support-compat:28.0.0'
     implementation "com.google.code.gson:gson:2.8.5"
-    implementation('com.huawei.hms:hwid:4.0.0.300')
+    implementation('com.huawei.hms:hwid:4.0.4.300')
     implementation "com.squareup.okhttp3:okhttp:3.14.2"
     implementation 'com.squareup.okio:okio:1.14.1'
-    implementation 'com.auth0:java-jwt:3.8.2'
-    implementation 'com.auth0:jwks-rsa:0.8.3'
 }
 
 repositories { flatDir { dirs '../aars' } }
