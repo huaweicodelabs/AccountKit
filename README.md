@@ -13,7 +13,7 @@
 ## Introduction
     Android sample code encapsulates APIs of the HUAWEI Account Kit server. It provides sample program for your reference or usage.
     The following describes of Android sample code.
-
+    
     hmssample:    Sample code packages. This package  contains code that implements Sign,  SignInCode and SignOut.
     logger:       This packages contains code that implements logger View.
 
