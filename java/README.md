@@ -45,7 +45,7 @@ This demo provides demonstration for following scenarios:
 4. Sign out.
 5. Cancel Authorization.
 
-![account sample result](images/account_sample_result.jpg)
+![account sample result](https://github.com/huaweicodelabs/AccountKit/tree/master/images/account_sample_result.jpg)
 
 
 ## License
